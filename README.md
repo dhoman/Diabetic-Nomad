@@ -9,3 +9,8 @@ Regarding the coverage of the materials, insulin pump therapy is included as a c
  
 CGM is not included as a reimbursed therapy yet in Spain. As the Health competencies are transferred to each Autonomous Community, some of them have decided to cover it. In communities which is not covered, some hospitals have decided to cover it at their own budget. So there is no “rule” there.
 It will depend on each community and on each hospital if CGM is covered for a specific patient or not.
+
+In case you cannot get the materials through a hospital, you could buy them directly to Medtronic Spain.
+Cost is approximately:
+Infusion sets + reservoirs: 150-220 euros/month
+Sensors: 320 euros/month
