@@ -1,2 +1,11 @@
 # Diabetic-Nomad
 Medtronic (and potentially later Dexcom) coverage Information for various countries
+
+## Germany
+MiniMed 640G with Guardian 2 Link Transmitter and Enlite 2 Sensor.
+
+## Spain
+Regarding the coverage of the materials, insulin pump therapy is included as a covered therapy in the Spanish social security. This means that the hospital will cover pump + consumables for the delivery of insulin. If you are untilled to the social security while being here, you should first get an appointment with a GP and he would then refer to a hospital, and they would decide on the therapy.
+ 
+CGM is not included as a reimbursed therapy yet in Spain. As the Health competencies are transferred to each Autonomous Community, some of them have decided to cover it. In communities which is not covered, some hospitals have decided to cover it at their own budget. So there is no “rule” there.
+It will depend on each community and on each hospital if CGM is covered for a specific patient or not.
